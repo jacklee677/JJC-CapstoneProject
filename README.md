@@ -46,4 +46,5 @@ Guided by these theoretical insights, we extracted salient structural features f
 Extensive experiments on held‑out NOI data demonstrate that our time‑difference social network approach consistently outperforms the traditional threshold‑based method and the naive social‑network technique—even when those methods are tuned to their theoretical optima. In every test scenario, the Pareto front achieved by our method fully dominates that of the competing approaches, yielding higher recall at equivalent precision levels and vice versa. These results confirm that integrating temporal dynamics and network structure yields a more robust and discriminative plagiarism‑detection strategy suited to the demands of large‑scale programming competitions.
 
 附一张运行结果
+
 ![Figure_1](https://github.com/user-attachments/assets/aad1af47-5293-420e-992f-65b269376a22)
